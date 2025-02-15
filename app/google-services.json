@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "429573563339",
-    "project_id": "newproject-36cb6",
-    "storage_bucket": "newproject-36cb6.firebasestorage.app"
+    "project_number": "200233491951",
+    "project_id": "whisper-33e0c",
+    "storage_bucket": "whisper-33e0c.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:429573563339:android:aa2c4bde4b500c36d74c4e",
+        "mobilesdk_app_id": "1:200233491951:android:c663a1a041fb494fe6ea1a",
         "android_client_info": {
           "package_name": "com.example.nest"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBEwCsBWF3mQgsf_zbVZVuwOBdg8Uxe6QQ"
+          "current_key": "AIzaSyAKi5DNJkIUTqKm4_8M2U31W7D4sbEgAsw"
         }
       ],
       "services": {
